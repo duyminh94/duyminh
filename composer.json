@@ -1,0 +1,20 @@
+{
+    "name": "root/mvc",
+    "description": "Duy Minh <minhkirito1803@gmail.com>",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Duy Minh",
+            "email": "minhkirito1803@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4.33",
+        "duyminh/framwork" : "1.0.*"
+    }
+}
